@@ -11,7 +11,7 @@
     padding-top: 20px;
 }
 .footerclass {
-    background-color: #7f6e64;
+    background-color: #7f6e64!important;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
     display: block;
